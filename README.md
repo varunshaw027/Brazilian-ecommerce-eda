@@ -38,3 +38,45 @@ sql/           -> SQL business queries
 dashboard/     -> Power BI dashboard files
 screenshots/   -> Dashboard and notebook visuals
 ```
+# Project Visuals
+
+## Payment Value Distribution
+
+![Payment Distribution](screenshots/payment_value_distribution.png)
+
+---
+
+## Top Customer States
+
+![Top Customer States](screenshots/order_state_distribution.png)
+
+---
+
+## Revenue by State
+
+![Revenue by State](screenshots/top_states_by_revenue.png)
+
+---
+
+## Delivery Time Distribution
+
+![Delivery Time](screenshots/delivery_time_distribution.png)
+---
+
+## Top Value Customers
+
+![Top Customers](screenshots/top_customer_states.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
