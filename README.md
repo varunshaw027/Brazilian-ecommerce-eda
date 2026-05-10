@@ -67,7 +67,36 @@ screenshots/   -> Dashboard and notebook visuals
 
 ![Top Customers](screenshots/top_customer_states.png)
 
+---
 
+# Power BI Dashboard
+
+This project also includes an interactive Power BI dashboard for ecommerce sales and customer analytics.
+
+## Dashboard Features
+- Revenue KPI tracking
+- Monthly sales trend analysis
+- Customer retention analysis
+- Top customer identification
+- Regional sales growth insights
+- Payment method analysis
+- Average order value tracking
+
+## Tools Used
+- Power BI
+- DAX
+- Power Query
+- Data Modeling
+
+---
+
+## Dashboard Preview
+
+### Ecommerce Sales Dashboard
+![Dashboard 1](powerbi_dashboard/dashboard1.png)
+
+### Customer Retention Dashboard
+![Dashboard 2](powerbi_dashboard/dashboard2.png)
 
 
 
